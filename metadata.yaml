@@ -11,6 +11,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/45836
 description: An unfriendly sketch, apparently occasioned by Fanny Fern's "Ruth Hall";
   with selections from her writings.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41231#The-Life-and-Beauties-of-Fanny-Fern
 gutenberg_issued: '2012-10-30'
 gutenberg_type: Text
 identifiers:
